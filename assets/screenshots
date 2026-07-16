@@ -1,1 +1,7 @@
-
+assets
+└── screenshots
+    ├── dashboard.png
+    ├── phone-call.png
+    ├── workflow.png
+    ├── calendar-booking.png
+    └── analytics.png
